@@ -51,9 +51,15 @@ footer{
 .form-control.success input {
     border: 3px solid #4ECA64;
 }
+.form-control.success{
+    background-color: rgb(235, 194, 144);
+}
 
 .form-control.error input {
     border: 3px solid #DB5A5A;
+}
+.form-control.error {
+    background-color: rgb(235, 194, 144);
 }
 
 .form-control.error i.img-error {

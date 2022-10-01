@@ -6,8 +6,10 @@
 body{
     background-color: rgb(235, 194, 144);
 } 
+.titulo2{
+    margin-top: 40px !important;
+}
 
 footer{
     background-color: rgb(245, 211, 169);
-
 }
